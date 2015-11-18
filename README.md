@@ -20,4 +20,4 @@ Add in a local array of colors, and only create your div if the color appears in
 
 ### Pro Mode
 
-Style your application page with Bootstrap, and be sure to optimize for mobile devices (shrink your browser and expand it back and forth to test this).
+Style your application page and be sure to optimize for mobile devices (shrink your browser and expand it back and forth to test this).
